@@ -1,9 +1,14 @@
-Projeto de Monitoramento de Luminosidade – Vinheria Agnello
-Descrição do Projeto
+## Projeto de Monitoramento de Luminosidade – Vinheria Agnello
+
+## Descrição do Projeto
 Este projeto foi criado especialmente para a Vinheria Agnello, com o objetivo de monitorar a luminosidade do ambiente onde os vinhos são armazenados. A exposição à luz pode afetar diretamente a qualidade dos vinhos, por isso é essencial manter esse controle.
-Objetivo
+
+## Objetivo
 Desenvolver um sistema de alarme que detecta quando há excesso de luz no local de armazenamento dos vinhos, emitindo um alerta sempre que necessário.
-Materiais Necessários
+
+
+
+## Materiais Necessários
 Arduino UNO
 
 
@@ -28,9 +33,11 @@ Protoboard
 Módulo de alimentação USB
 
 
-Funcionamento
+## Funcionamento
 O sensor LDR é conectado à porta A0 do Arduino e é responsável por medir a intensidade da luz no ambiente. Os valores lidos são analógicos e representam o nível de luminosidade. Com base nesses valores, o sistema acende um LED correspondente (verde, amarelo ou vermelho) e, em caso de necessidade, ativa o alarme sonoro.
 
+
+## Link com video Explicativo:
 
 ## Código do Projeto
 ```
