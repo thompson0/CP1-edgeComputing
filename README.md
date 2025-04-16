@@ -37,7 +37,7 @@ Módulo de alimentação USB
 O sensor LDR é conectado à porta A0 do Arduino e é responsável por medir a intensidade da luz no ambiente. Os valores lidos são analógicos e representam o nível de luminosidade. Com base nesses valores, o sistema acende um LED correspondente (verde, amarelo ou vermelho) e, em caso de necessidade, ativa o alarme sonoro.
 
 
-## Link com video Explicativo:
+## Link com video Explicativo: https://www.youtube.com/shorts/KoIsAowMYmo
 
 ## Código do Projeto
 ```
