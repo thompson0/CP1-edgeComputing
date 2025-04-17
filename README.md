@@ -39,7 +39,7 @@ O sensor LDR é conectado à porta A0 do Arduino e é responsável por medir a i
 
 
 
-## Link com video Explicativo: https://www.youtube.com/shorts/KoIsAowMYmo](https://youtube.com/shorts/atdXnVbq03U
+## Link com video Explicativo: https://www.youtube.com/shorts/atdXnVbq03U
 
 ## Código do Projeto
 ```
